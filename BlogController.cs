@@ -1,0 +1,1 @@
+// Controller for Blogs with pagination
