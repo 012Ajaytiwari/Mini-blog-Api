@@ -1,1 +1,14 @@
 
+src/
+├── components/
+│   ├── Header.js
+│   ├── BlogCard.js
+│   ├── BlogPost.js
+│   ├── Login.js
+│   └── Register.js
+├── pages/
+│   ├── HomePage.js
+│   ├── BlogPage.js
+│   └── AuthPage.js
+├── App.js
+└── index.js
